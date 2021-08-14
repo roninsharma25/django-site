@@ -1,1 +1,1 @@
-# example-site
+# example-django-project
